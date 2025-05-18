@@ -1,6 +1,6 @@
 # METAREACTNATIVE
 
-## Meta React Native Specialization
+## Meta React Native Specialization (8 course series)
 
 
 If you want to learn how to create apps for Android and iOS devices, this course is right for you. This program is taught by industry-recognized experts at Meta.  
